@@ -76,6 +76,11 @@ Helmet 5 is fully backward-compatible with previous Helmet releases, so you can 
 
 ## Installation
 
+CDN: 
+```html
+<script src="https://cdn.jsdelivr.net/npm/react-helmet@5/lib/Helmet.js"></script>
+```
+
 Yarn:
 ```bash
 yarn add react-helmet
